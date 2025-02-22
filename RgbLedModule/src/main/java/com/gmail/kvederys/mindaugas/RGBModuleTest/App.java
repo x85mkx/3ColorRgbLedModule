@@ -1,4 +1,4 @@
-package com.gmail.kvederys.mindaugas.RBGModuleTest;
+package com.gmail.kvederys.mindaugas.RGBModuleTest;
 
 import com.pi4j.Pi4J;
 import com.pi4j.context.Context;

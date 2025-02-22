@@ -1,4 +1,4 @@
-package com.gmail.kvederys.mindaugas.RBGModuleTest;
+package com.gmail.kvederys.mindaugas.RGBModuleTest;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
